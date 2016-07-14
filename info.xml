@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<extension key="nl.sp.addresslocale" type="module">
+  <file>addresslocale</file>
+  <name>Address locale</name>
+  <description>This extension fixes the error of unsuported locale upon address saving</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Jaap Jansma</author>
+    <email>jaap@edeveloper.nl</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">http://github.com/spnl/nl.sp.addresslocale</url>
+    <url desc="Documentation">http://github.com/spnbl/nl.sp.addresslocale/README.md</url>
+    <url desc="Support">http://civicoop.org</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2016-07-14</releaseDate>
+  <version>1.0</version>
+  <develStage>stable</develStage>
+  <compatibility>
+    <ver>4.6</ver>
+  </compatibility>
+  <civix>
+    <namespace>CRM/Addresslocale</namespace>
+  </civix>
+</extension>
