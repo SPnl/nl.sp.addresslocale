@@ -1,0 +1,13 @@
+{
+    "name": "spnl/nl.sp.addresslocale",
+    "description": "This extension fixes the error of unsuported locale upon address saving",
+    "type": "civicrm-module",
+    "license": "AGPL-3.0",
+    "authors": [
+        {
+            "name": "Jaap Jansma",
+            "email": "jaap@edeveloper.nl"
+        }
+    ],
+    "require": {}
+}
